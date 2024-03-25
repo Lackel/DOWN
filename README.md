@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Dynamic Order Weighted Network (DOWN)
 Data and code for paper titled [DOWN: Dynamic Order Weighted Network for Fine-grained Category Discovery](https://www.sciencedirect.com/science/article/abs/pii/S0950705124003010) (Knowledge-based Systems 2024 paper)
 
@@ -73,9 +71,3 @@ If our paper or code is helpful to you, please consider citing our paper:
   publisher={Elsevier}
 }
 ```
-=======
-# DOWN
-Knowledge-based Systems paper "DOWN: Dynamic Order Weighted Network for Fine-grained Category Discovery"
-
-# Code and data will be released soon.
->>>>>>> c4f980f518be4569f1208d71d59a62573f4d3ef8
